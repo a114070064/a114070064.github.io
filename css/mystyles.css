@@ -1,0 +1,52 @@
+.maxcenter{
+    text-align: center;
+    color: blue;
+
+}
+.maxword{
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    border: 2px solid black;
+    padding: 20x 30px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 0px auto;
+    width: 100%;
+    height: 100px;
+    overflow: auto; 
+}
+.centercenter{
+    text-align: center;
+}
+a.maxlink{
+    padding: 0 10px ;
+    border-radius: 40px;
+    background-color: blueviolet;
+}
+a.maxlink:hover{
+    background-color: yellow;
+    color: brown;
+    padding:0 10px ;
+    border-radius: 30px;
+}
+.maxbig{
+    font-size: 20px;
+    font-weight: 600;
+}
+.maxgo{
+    font-size: 35px;
+}
+.maxlink{
+    text-align: center;
+}
+section#about{
+    background-color: grey;
+    background-image: url(../assets/img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#callme{
+    background-color: aliceblue;
+}
