@@ -65,10 +65,13 @@ section#about{
     color: aliceblue;
 }
 .maxpic{
-    width: 90%;
-    border-radius: 20px;
+    width: 100%;
+    border-radius: 10px;
 
 }
 .max5word{
     color: aliceblue;
+}
+.header{
+    padding-top: 50px;
 }
