@@ -75,3 +75,7 @@ section#about{
 .header{
     padding-top: 50px;
 }
+.serif{
+  font-family: "Noto Serif TC", sans-serif;
+  
+}
